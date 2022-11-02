@@ -151,3 +151,4 @@ for p in tqdm(range(page)):
 
 conbine(ORG_NAME,"ja")
 conbine(ORG_NAME,"alt")
+print("fin transrate")
