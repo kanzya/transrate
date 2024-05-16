@@ -1,4 +1,2 @@
-###### Requirements without Version Specifiers ######
-
-deepl-cli
-PyPDF2
+deepl_cli==0.7.0
+PyPDF2==3.0.1
